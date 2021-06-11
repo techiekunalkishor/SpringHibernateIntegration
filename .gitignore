@@ -110,3 +110,5 @@ target/
 .scala_dependencies
 
 .worksheet
+
+.project
